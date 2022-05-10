@@ -1,0 +1,4 @@
+resulado = suma(a:10, b:30);
+
+int suma(int a, int b)
+return a + b 
